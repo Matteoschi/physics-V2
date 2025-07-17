@@ -24,7 +24,7 @@ Optional but recommended:
 
 ## 🧩 Program Overview
 
-### 1. `simulazioni_cli.py`
+### 1. `generale no grafica V2.py`
 
 A text-based command-line tool for performing physics calculations based on classical mechanics formulas. Available modules include:
 
@@ -39,14 +39,14 @@ A text-based command-line tool for performing physics calculations based on clas
 #### Run:
 
 ```bash
-python simulazioni_cli.py
+generale no grafica V2.py
 ```
 
 The user is guided via prompts for every required parameter. All results are printed in the terminal.
 
 ---
 
-### 2. `proiettile_aria.py`
+### 2. `Moto Parabolico ; Ideale vs Reale.py`
 
 Animated simulation of projectile motion in two versions:
 
@@ -66,7 +66,7 @@ In addition to the Pygame animation, results are also printed in the terminal.
 #### Run:
 
 ```bash
-python proiettile_aria.py
+Moto Parabolico ; Ideale vs Reale.py
 ```
 
 #### Controls:
@@ -75,7 +75,7 @@ python proiettile_aria.py
 
 ---
 
-### 3. `inclinato_attrito.py`
+### 3. `piano inclinato.py`
 
 Simulates an object sliding on an inclined plane, considering:
 
@@ -93,7 +93,7 @@ Data is shown graphically (blocks, vectors, angle) and numerically in the consol
 #### Run:
 
 ```bash
-python inclinato_attrito.py
+piano inclinato.py
 ```
 
 #### Output:
@@ -103,7 +103,7 @@ python inclinato_attrito.py
 
 ---
 
-### 4. `nbody_gravitazionale.py`
+### 4. `n-Body simulation.py`
 
 Interactive N-body gravity simulator. Each body has:
 
@@ -127,7 +127,7 @@ The simulation shows:
 #### Run:
 
 ```bash
-python nbody_gravitazionale.py
+n-Body simulation.py
 ```
 
 #### Controls:
@@ -142,8 +142,8 @@ python nbody_gravitazionale.py
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/FisicaSimulazioni.git
-cd FisicaSimulazioni
+git clone https://github.com/Matteoschi/physics-V2.git
+cd physics-V2
 ```
 
 2. (Optional) Create a virtual environment:
